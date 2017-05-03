@@ -1,0 +1,1 @@
+<?php echo 'Hello I am a test page'; ?>
